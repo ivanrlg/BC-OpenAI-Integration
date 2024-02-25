@@ -17,7 +17,7 @@ This repository contains the source code for "BC-OpenAI-Integration," an innovat
 To connect Business Central to OpenAI, set up the API keys and endpoints in the provided setup table, then use the provided actions and prompts within the ERP to generate and apply number series.
 
 ## Video
-https://github.com/ivanrlg/BC-OpenAI-Integration/assets/21310111/8227a5f1-5560-4440-8af6-55eacbae5fb5
+https://github.com/ivanrlg/BC-OpenAI-Integration/assets/21310111/989b5ffe-95a1-467e-8c09-c07cbfc8e0a7
 
 ## Contribution
 Contributions to this project are welcome! If you have suggestions for improvements or have found issues, please follow our Contribution Guidelines.
