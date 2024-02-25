@@ -1,0 +1,3 @@
+1) 
+2) use - in the number, warn user when 100 numbers left
+3) use - in the number, warn user when 100 numbers left, use superheroes names in the numbers and descriptions
