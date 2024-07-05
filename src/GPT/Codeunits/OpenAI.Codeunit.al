@@ -13,6 +13,7 @@ codeunit 50103 "GPT OpenAI"
     begin
         Endpoint := NewEndpoint;
         ApiKey := NewApiKey;
+        Model := NewModel;
     end;
 
     // Generates chat completions by sending a request to OpenAI and processes the response
